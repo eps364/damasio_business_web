@@ -11,7 +11,7 @@ const Home: NextPage = () => {
         <meta property="og:title" content="Damasio Business" />
         <meta property="og:description" content="Grandes investimentos começam aqui">
         <meta property="og:url" content="https://app.damasio.mission.dev.br" />
-        <meta property="og:image" content="logo-social.jpg" />
+        <meta property="og:image" content="/logo-social.webp" />
         <meta property="og:type" content="website" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
